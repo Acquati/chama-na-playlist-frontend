@@ -9,7 +9,7 @@ const HomePage: NextPage = () => {
       <div className={styles.searchBarContainer}>
         <SearchBar />
       </div>
-      <h1 style={{ marginTop: 0 }}>Home Page</h1>
+      <h2 style={{ marginTop: 0 }}>Playlists Recentes</h2>
     </Layout>
   </>
 }

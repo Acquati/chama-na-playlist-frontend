@@ -10,7 +10,7 @@ interface LayoutProps {
 
 const Layout = ({
   children,
-  title = 'Chama Na Playlist',
+  title = 'ChamaNaPlaylist',
   description = 'Suas playlists preferidas em um só lugar.'
 }: LayoutProps) => {
   return <>
